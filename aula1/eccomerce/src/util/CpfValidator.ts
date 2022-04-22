@@ -1,4 +1,4 @@
-export function isCpfCnpjValid(cpf: string) {
+export function isCpfValid(cpf: string) {
 
     if (cpf == null || cpf == undefined) {
         return false;
