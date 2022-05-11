@@ -20,6 +20,9 @@ Used [Jest Framework](https://jestjs.io/pt-BR/) to test.
 ### Run tests with debug
 `npx jest --watchAll`
 
+### Run teste with coverage
+`npx jest --coverage`
+
 ### 
 Anotações
 - https://www.notion.so/8fb577593ac44e0cad6a2ad8aa5cbf79?v=c85082d7092f4e368eaed8557f1b3027
